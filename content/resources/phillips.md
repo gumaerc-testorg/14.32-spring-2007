@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains supporting data for problem set 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-32-econometrics-spring-2007/5fb0c245b18178732e8d43abd699a7f6_phillips.sas7bdat
+file: /media/courses/14-32-econometrics-spring-2007/5fb0c245b18178732e8d43abd699a7f6_phillips.sas7bdat
 file_type: application/octet-stream
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: phillips.sas7bdat
 uid: 5fb0c245-b181-7873-2e8d-43abd699a7f6

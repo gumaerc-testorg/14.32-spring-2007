@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7a0feb89-a349-298b-cea1-8aa4d4e3393a
 ---
@@ -46,7 +49,7 @@ Readings
 {{< tdopen >}}
 Probability and distribution
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Lecture note 1: Probability and distribution
@@ -87,7 +90,7 @@ Expectation and moments
 {{< tdopen >}}
 Sampling distributions and inference
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Lecture note 3: Sampling distributions and inference
@@ -139,7 +142,7 @@ Confidence intervals
 {{< tdopen >}}
 Conditional expectation functions, bivariate regression
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 Lecture note 6: Bivariate regression
@@ -196,7 +199,7 @@ Residuals, fitted values, and goodness of fit
 {{< tdopen >}}
 Regression, causality, and control; anatomy of multivariate regression coefficients
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 Lecture note 10: Introduction to multivariate regression
@@ -263,7 +266,7 @@ Regression analysis of natural experiments, differences-in-differences
 {{< tdopen >}}
 Heteroscedasticity, consequences of; weighted least squares; the linear probability model
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Lecture note 13a: Heteroscedasticity, linear probability models
@@ -304,7 +307,7 @@ Serial correlation in time series, consequences of; quasi-differencing; common-f
 {{< tdopen >}}
 Using IV to solve omitted-variables problems
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Lecture note 14: Instrumental variables for omitted-variables problems
@@ -372,7 +375,7 @@ Simultaneous equations models I
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Lecture note 15: Simultaneous equations models - motivation and identification

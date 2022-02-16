@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains supporting data for problem set 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-32-econometrics-spring-2007/c4c90857070ee0cc32bff856f086c87e_fish.sas7bdat
+file: /media/courses/14-32-econometrics-spring-2007/c4c90857070ee0cc32bff856f086c87e_fish.sas7bdat
 file_type: application/octet-stream
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: fish.sas7bdat
 uid: c4c90857-070e-e0cc-32bf-f856f086c87e

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains supporting data for problem set 4.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-32-econometrics-spring-2007/50872b0a12a983336e3227749c8a01c2_nbasal.sas7bdat
+file: /media/courses/14-32-econometrics-spring-2007/50872b0a12a983336e3227749c8a01c2_nbasal.sas7bdat
 file_type: application/octet-stream
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: nbasal.sas7bdat
 uid: 50872b0a-12a9-8333-6e32-27749c8a01c2
