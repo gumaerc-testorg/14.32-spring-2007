@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b2277487-1410-4823-6587-691fcba48ac5
 resourcetype: Other
 title: fish.sas7bdat
 uid: c4c90857-070e-e0cc-32bf-f856f086c87e

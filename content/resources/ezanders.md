@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b2277487-1410-4823-6587-691fcba48ac5
 resourcetype: Other
 title: ezanders.sas7bdat
 uid: f60c69bf-c53c-d43e-ebe8-1afdcc611a97

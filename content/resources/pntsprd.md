@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b2277487-1410-4823-6587-691fcba48ac5
 resourcetype: Other
 title: pntsprd.sas7bdat
 uid: 37cdd344-7bc2-7f75-4903-37793255a235
