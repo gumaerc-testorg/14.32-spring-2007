@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course description, information about prerequisites,
+  course requirements, texts, grading, recommended citation, and a course outline.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,7 +41,7 @@ Goldberger, Arthur S. _A Course in Econometrics_. Cambridge, MA: Harvard Univers
 
 DeGroot, Morris H., and Mark J. Schervish. _Probability and Statistics_. 3rd ed. Boston, MA: Addison-Wesley, 2001. ISBN: 9780201524888.
 
-Wooldridge is the main text. The material in Goldberger is more advanced and optional. DeGroot and Schervish is a recommended text for statistics review. Each unit also has [readings]({{< baseurl >}}/pages/readings) from published journal articles.
+Wooldridge is the main text. The material in Goldberger is more advanced and optional. DeGroot and Schervish is a recommended text for statistics review. Each unit also has {{% resource_link 7a0feb89-a349-298b-cea1-8aa4d4e3393a "readings" %}} from published journal articles.
 
 Grading
 -------
