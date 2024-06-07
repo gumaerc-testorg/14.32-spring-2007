@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/14-32-econometrics-spring-2007/5be0b0cf3e50340bc1cea9d9396fe707_oct89.sas7bdat
+file_size: 30784
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
