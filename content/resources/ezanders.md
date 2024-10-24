@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains supporting data for problem set 5.
-file: /courses/14-32-econometrics-spring-2007/f60c69bfc53cd43eebe81afdcc611a97_ezanders.sas7bdat
+file: /ol-ocw-studio-app/courses/14-32-econometrics-spring-2007/f60c69bfc53cd43eebe81afdcc611a97_ezanders.sas7bdat
 file_size: 40960
 file_type: application/octet-stream
 learning_resource_types:
