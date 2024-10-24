@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/14-32-econometrics-spring-2007/b959d4b3188e1ecaf1c09825beae1e26_qob.sas7bdat
+file: /ol-ocw-studio-app/courses/14-32-econometrics-spring-2007/b959d4b3188e1ecaf1c09825beae1e26_qob.sas7bdat
 file_size: 13312000
 file_type: application/octet-stream
 learning_resource_types:
