@@ -8,7 +8,7 @@ description: 'U. S. Mergers from 1919 to 1979. From 1919 to 1979, there were pea
   from Figure 2 on page 496 of Golbe, Devra L., and Lawrence J. White. "Catch a Wave:
   The Time Series Behavior of Mergers." Review of Economics and Statistics 75, no.
   3 (August 1993): 493-499.)'
-file: /ol-ocw-studio-app/courses/14-32-econometrics-spring-2007/413b2edb58e23ee819df42d08b20ecf2_chp_merger_wave.jpg
+file: /courses/14-32-econometrics-spring-2007/413b2edb58e23ee819df42d08b20ecf2_chp_merger_wave.jpg
 file_size: 38128
 file_type: image/jpeg
 image_metadata:
