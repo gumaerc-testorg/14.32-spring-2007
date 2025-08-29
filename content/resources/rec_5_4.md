@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains recitation notes on implementation of IV and two-stage
   least squares.
-file: /courses/14-32-econometrics-spring-2007/915e24f549e0ab99bf904fa14f3d77d5_rec_5_4.pdf
+file: /ol-ocw-studio-app/courses/14-32-econometrics-spring-2007/915e24f549e0ab99bf904fa14f3d77d5_rec_5_4.pdf
 file_size: 96492
 file_type: application/pdf
 learning_resource_types:
